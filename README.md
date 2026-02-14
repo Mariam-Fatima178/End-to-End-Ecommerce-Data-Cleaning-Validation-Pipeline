@@ -1,4 +1,4 @@
-# Ecommerce Data Cleaning using SQL & Python
+# End-to-End Ecommerce Data Cleaning & Validation Pipeline
 
 ## Project Overview
 This project focuses on cleaning and preprocessing an ecommerce sales dataset using **PostgreSQL** and **Python (pandas, psycopg2)**.  
